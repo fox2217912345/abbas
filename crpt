@@ -1,0 +1,3 @@
+git add .
+git commit -m "Deploy CryptoSignal AI Pro"
+git push origin main
